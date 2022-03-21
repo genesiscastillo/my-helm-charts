@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-21T18:29:10.0959739-03:00"
+    description: A Helm chart for Kubernetes
+    digest: dc4a728d7b37b77e2c0cf82d826388d1e4d8de57203a26be867413804e26b8ed
+    name: app1
+    type: application
+    urls:
+    - https://github.com/genesiscastillo/my-helm-charts/releases/download/app1-0.1.0/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-21T18:29:10.3449054-03:00"
+    description: A Helm chart for Kubernetes
+    digest: a741d3f049a2e67200971450bdd9a558a37bb3199094db75b4653a6c37594abf
+    name: app2
+    type: application
+    urls:
+    - https://github.com/genesiscastillo/my-helm-charts/releases/download/app2-0.1.0/app2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-21T18:29:10.3458953-03:00"
